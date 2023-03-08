@@ -1,0 +1,10 @@
+﻿---
+BasedOnStyle: WebKit
+SpaceInEmptyBlock: false
+BreakBeforeBraces: Custom
+AlignTrailingComments: true
+AlignAfterOpenBracket: Align
+BreakConstructorInitializers: AfterColon
+ConstructorInitializerAllOnOneLineOrOnePerLine: false
+NamespaceIndentation: Inner
+...

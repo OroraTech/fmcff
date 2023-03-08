@@ -1,0 +1,6 @@
+﻿[submodule "code/stm_hal/printf"]
+	path = code/stm_hal/printf
+	url = https://github.com/eyalroz/printf
+[submodule "code/micropython"]
+	path = code/micropython/micropython
+	url = https://github.com/micropython/micropython.git

@@ -1,0 +1,6 @@
+﻿*/build/
+*/build_*/
+*-converted-to.pdf
+*.swp
+.cache/
+*/.cache/
