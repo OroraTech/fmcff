@@ -45,3 +45,11 @@ All code in this repository (not including git submodules) is licensed under the
 ```
 Copyright [2023] [OroraTech GmbH]
 ```
+
+## Contributors
+
+This code was crafted with <3 by:
+
+ - Sebastian Würl
+ - Markus Faehling
+ - Hanna Vivien Werner
